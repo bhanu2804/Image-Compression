@@ -1,1 +1,1 @@
-# Image-Compression
+Write a python program to Develop a Python tool for compressing images while maintaining quality. Explore compression techniques like RLE and DCT. Allow users to adjust compression quality, support various image formats, and provide output options. Optionally, include a user interface. Ensure code modularity, performance optimization, and test with diverse images, along with comprehensive documentation.
